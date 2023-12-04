@@ -1,6 +1,6 @@
-# Kanban_Group3Project00740310
+# Kanban_Group3Project
 
-Group3
+
 Dinesh Gummadidala - 700741247
 GeetaSree Doddapaneni - 700744905
 SaiRavi Teja Poddaturi - 700738656
